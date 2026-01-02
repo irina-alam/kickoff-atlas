@@ -24,6 +24,9 @@ Kickoff Atlas is a frontend web application that helps users discover upcoming f
 ## Deployment
 The application is deployed using Vercel.
 
+## Live site
+https://kickoff-atlas.vercel.app/
+
 ## Run locally
 ```bash
 npm install
